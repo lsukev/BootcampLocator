@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_0ca29dc74817ddfb4f773a0543330c5c614a8282\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_a963a3899547d6102d5940be16e2a05cd3aa874d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_d9b2d099435acabc0b6adbf9dd8d4e16a7a07d8f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_c4141f4190642ae3a1dad6bd3d2965975903853e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_48bfd301f96e271c29e8f7b409197fe35945e29d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_61d148fea01345c125cb45a08cb0e867100736b0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_54bc925b290b2dccf8621eea5c2aa3ee0d57510d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_278747095cb72a48dbc9a0e38f3b538ba85a38ef\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_dfb25bba95426755bcaec6dd64ea866632bd89af\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_1fce4cf306ca0e847dc8dc6d575c3b9f6194795a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_5f0b165fbb388955987c764e477dc29b29d664c7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_799d7316f484e194f1132b8939e456aedf80790c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_ba1b75fcf23934074f836c30f1f481b05d573e2d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_8a9f80b545cb69bd08f0876d55574a4801e86f73\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_7b0246c8798ed059e56b9e1872134251e6b35913\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_bb47679dbbae1c2da821e030e372daa82eba2c5f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_7859f12a80903f29b19369c716f9e52a0578228b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_457058ec6b6aa469307e726ea142dc9eca0a8e37\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2f930669de962360ee098068282f8f4d47b49ed2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_e469e9bacf29ee0a34b93bc9cbd1bb5d0daaad82\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_1bf0a72589af1a4eaf07ad50f93f240e4031eebf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_1626167903f89a23e5944e3067d0938d9483bb28\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_e3df93dee5b8342a0086e6353ffebc44cadb3a7f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_02a35ba622e6a49bd596e17a5ef22b41a9ffc818\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_af27ca0d9ceca35254660af74958ea2f92d1030e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_9e08af67e40d6da84bf9468734cf6fce6025a9ad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_ad155742bca4884d917cd2c1dd34792852fb819b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_c909cddb174bbae51732c9170b1dbc2ec86a7225\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_93e09e093960bf6f06a3ae6462aec592c3ce950f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_d0aad479db165580ef3e27686ac23233bac1cef6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_ee72fc772a2b9819e264866026a51bc32e1c36f8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_e2be16fe2cd6db560bc8d7b224a59d7a2bc898ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fc4abb796be62d6084c7c6cf21b8262e2ee724c2">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7a2fb7a30d721855bbdd6bbddabd629e42f06b6e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_de61787f0642313518a2487cc523f11dd0fc21b8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_1a6d19fa158c3f6c97f478f9cef2e528e0ca0e8a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d021915a9891e251828f248f0b0224d82b3cde39">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_967f29cc5dfb74bc52b03b3f4aa1fd11deb37b0e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_91fd8897886ad3fe808137a2be6d3e4212358aad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_5d50c83ac0914d4ad976dd7311abc52f72472572\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_c3016d6582deee03ee0bd54aa20c04d5d27794bc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_1cb06a5a1e6553d328084b2839461082aeb2e378\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_d6592804a0947899324125e09be3ab3079bb6f85\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_2e687c075a3535a9352ebd4ef87d3625733394e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_9940a497ead4f76ae8e838e36ea80117bd9e37e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_b37f182f4dd9e4f771cdaa025102f152ff9c537b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_6fdd5542d39603405f9ddf5131090a384960f13c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_4e5eade4b875d945b854781c4f20d41fbbb3bf27\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_28e3024e2b7d715e78352f0ca3e870cc80b673b6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_76d20b5b37ca1e8096c01dcc3202760cca73954e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_2e9bfcbf16eb8afec587352f9d552f2b3b22174a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_7ae7d427bdc77eaa056b8299170f638953e8a370\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_12026a8ffe62d749522ce4cca5bf27fd364ba16f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_87b936b48f94268cbb6e4f6e5719926e6f42d3cf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_ed0b355360a5184b5039ac52d97abcd57b167e4c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_278c3ff7a86e4111c8c0c640744882577a296fb1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_837a2bae9ad03cd17113c36b3275fc69b5a54077\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_5293f167fac161be14b4d72c17acb77069f4c4db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_a15e145a8cccc613aa8850d0143dcc019429ce2d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_837d4997224c17e96d7e30e203ab83748c3b3433\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_b3b2355f41a800a3d7b5a8cc7d359aa2be378928\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f542d0aaa5cea0204a62a00d45a197ec13c7e58a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_5ac90578acd6c630ca3dbfa77693e5381b28b202\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_2b0821071ce3c2da96b8756d46eeab44310dce11\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_310db49f0c1dbde910add8b6d6874ec98e42fdf6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_77bce9efd2ba671373d733332b443149c91e6d19\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_4891c696ea2d20e9900f2afd9826b0caeb50cd63\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_7951150d6ba10bc417e9af564dae447694cca2c9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\lsuke\Desktop\BootcampLocator\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_0c83767749f1a4c7124011bd84c46bf2a8d07843\classes.dex" />
+    </item>
+
+</items>
